@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.1d092350a007bc3624c53444efdeeea9.css"],"names":[],"mappings":"AAGA,GACE,qBAAgC,CACjC","file":"index.1d092350a007bc3624c53444efdeeea9.css","sourcesContent":["\r\n/* 这里写通用的样式 */\r\n\r\nh1 {\r\n  border: 1px solid rebeccapurple;\r\n}\r\n"]}
